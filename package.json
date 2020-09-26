@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-run-script-terminal",
+  "version": "1.0.0",
+  "main": "services.js",
+  "author": "Daniel Fernandez",
+  "license": "MIT",
+  "scripts": {
+    "example_function": "run-func services.js exampleFunction",
+    "example_function_with_param": "run-func services.js exampleFunctionWithParam"
+  },
+  "dependencies": {
+    "run-func": "^1.0.5"
+  }
+}
