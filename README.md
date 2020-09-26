@@ -1,4 +1,4 @@
-# RUNNING FUNCTIONS THROUGH TERMINAL
+## RUNNING FUNCTIONS THROUGH TERMINAL
 
 ## Use a package.json to configure yours scripts
 
